@@ -19,9 +19,10 @@ Impulse creation
 </p>
 
 Transfer Training Results on Edge Impulse
-
-<img width="431" height="95" alt="Screenshot 2026-04-14 144323" src="https://github.com/user-attachments/assets/88edd1d5-8220-4e49-897b-fb877d376c78" />
-<img width="573" height="97" alt="Screenshot 2026-04-14 145301" src="https://github.com/user-attachments/assets/ce323d94-6088-48c1-b65a-a367d6e92f5e" />
+<p>
+<img width="431" height="95" alt="Screenshot 2026-04-14 144323" src="https://github.com/user-attachments/assets/88edd1d5-8220-4e49-897b-fb877d376c78" width="45%" />
+<img width="573" height="97" alt="Screenshot 2026-04-14 145301" src="https://github.com/user-attachments/assets/ce323d94-6088-48c1-b65a-a367d6e92f5e" width="45%" />
+</p>
 Inference results on ESP32CAM
 
 
