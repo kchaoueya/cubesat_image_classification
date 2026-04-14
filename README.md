@@ -6,7 +6,7 @@ Below you can find the highlighted steps to create this project.
 ![fbac1500-b22b-4bb5-a968-80ce8bdb32e0](https://github.com/user-attachments/assets/3f4ee7fe-edf5-409b-8330-bf613e1c93f1)
 Dataset Upload & Labelling on Edge Impulse
 
-![[Impulse creation]](https://github.com/user-attachments/assets/d2badc6d-ebb1-4da0-9bd7-49ae76b496a5)
+![Impulse creation](https://github.com/user-attachments/assets/d2badc6d-ebb1-4da0-9bd7-49ae76b496a5)
 
 
 
