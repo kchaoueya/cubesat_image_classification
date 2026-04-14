@@ -15,7 +15,7 @@ Impulse creation
 ![ab89a2c6-2447-4112-8c47-6cd1c90d31e5](https://github.com/user-attachments/assets/6cbc1248-91e2-4127-b6a2-e7daf04317e4)
  ![7c9f31e8-0357-4832-9779-643309bb0ea8](https://github.com/user-attachments/assets/74920c80-6b60-45fa-b97b-11047a42273b)
 
-<p align="center">
+<p >
   <img src="https://github.com/user-attachments/assets/0e579066-8663-4ee3-8773-9828adaadd6e" width="50%" />
   <img src="https://github.com/user-attachments/assets/6cbc1248-91e2-4127-b6a2-e7daf04317e4" width="50%" />
 </p>
