@@ -16,9 +16,8 @@ Impulse creation
  ![7c9f31e8-0357-4832-9779-643309bb0ea8](https://github.com/user-attachments/assets/74920c80-6b60-45fa-b97b-11047a42273b)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0e579066-8663-4ee3-8773-9828adaadd6e" width="30%" />
-  <img src="https://github.com/user-attachments/assets/6cbc1248-91e2-4127-b6a2-e7daf04317e4" width="30%" />
-  <img src="https://github.com/user-attachments/assets/74920c80-6b60-45fa-b97b-11047a42273b" width="30%" />
+  <img src="https://github.com/user-attachments/assets/0e579066-8663-4ee3-8773-9828adaadd6e" width="50%" />
+  <img src="https://github.com/user-attachments/assets/6cbc1248-91e2-4127-b6a2-e7daf04317e4" width="50%" />
 </p>
 Transfer Training Results on Edge Impulse
 
