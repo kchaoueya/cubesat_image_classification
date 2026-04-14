@@ -11,7 +11,7 @@ Dataset Upload & Labelling on Edge Impulse
 Impulse creation
 
 
- <img src="https://github.com/user-attachments/assets/74920c80-6b60-45fa-b97b-11047a42273b" length="50%">
+ <img src="https://github.com/user-attachments/assets/74920c80-6b60-45fa-b97b-11047a42273b" length="50%"/>
 
 <p >
   <img src="https://github.com/user-attachments/assets/0e579066-8663-4ee3-8773-9828adaadd6e" width="45%" />
